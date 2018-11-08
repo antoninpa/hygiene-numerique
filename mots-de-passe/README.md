@@ -54,7 +54,7 @@ La meilleure façon de générer un bon mot de passe dont il est facile de se so
 
 Arnold Reinhold, son créateur, a constitué une liste de 55 555 mots du dictionnaire anglais chacun identifié par un nombre à 5 chiffres (de 11 1111 à 66 666). 5 dés sont lancés et chacun des chiffres obtenus est combiné pour correspondre à un mot issu de la liste. 
 
-![Extrait de la liste Diceware](./docs/diceware.png)
+![Extrait de la liste Diceware](./docs/Diceware.png)
 
 
 
