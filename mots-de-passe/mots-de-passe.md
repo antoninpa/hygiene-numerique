@@ -9,7 +9,7 @@ La compromission d’un mot de passe est susceptible d’engendrer une **usurpat
 
 Aussi répandus soient-ils **les mots de passe n’ont jamais été considérés comme des modes d’authentification satisfaisants** : l’imagination (pour créer des mots de passe) et la mémoire (pour s’en souvenir) ne sont pas des qualités innées aux humains[1].
 
-Pour saisir pourquoi le caractère aléatoire et la longueur d’un mot de passe sont essentiels il faut comprendre comment les mots de passe peuvent être “crackés”. 
+Pour saisir pourquoi le caractère aléatoire et la longueur d’un mot de passe sont essentiels il faut comprendre comment les mots de passe peuvent être “crackés”.
 
 ### Comment les mots de passe sont "crackés ?
 
@@ -45,6 +45,16 @@ Il est généralement recommandé de renouveler régulièrement ses différents 
 
  * Utiliser un gestionnaire de mots de passe (*pratique n°1*)
  * Créer soi-même un mot de passe maître fort (*pratique n°2*)
+
+## Pratiques
+
+### 1. Génération manuelle d'une phrase de passe
+
+La meilleure façon de générer un bon mot de passe dont il est facile de se souvenir est d’utiliser la méthode dite Diceware.
+
+Arnold Reinhold, son créateur, a constitué une liste de 55 555 mots du dictionnaire anglais chacun identifié par un nombre à 5 chiffres (de 11 1111 à 66 666). 5 dés sont lancés et chacun des chiffres obtenus est combiné pour correspondre à un mot issu de la liste. 
+
+![Extrait de la liste Diceware](./docs/diceware.png)
 
 
 
